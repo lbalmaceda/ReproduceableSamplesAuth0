@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lock Sample</string>
+
+    <string name="com_auth0_client_id">esCyeleWIb1iKJUcz6fVR4e29mEHkn0O</string>
+    <string name="com_auth0_domain">lbalmaceda.auth0.com</string>
+</resources>
